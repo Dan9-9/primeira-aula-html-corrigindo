@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Daniel</title>
+    </head>
+    <body>
+    </body>
+    <header><!--cabeçario da pagina ou parte da pagina-->
+        <img src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/imagem-em-lente-convexa.jpg" alt="imagem aleatoria">
+        <h1>Daniel Lemos</h1>
+    </header>
+    <section><!--seção generica-->
+        <header>
+            <h2>Posts</h2>
+        </header>
+        <p><!--copia um texto de algum site--> 
+        </p>
+        <article><!--conteudo relevante dentro da pagina-->
+            <aside><!--conteudo relacionado ao conteudo relevante-->
+            <header>
+                <h3>Post #1</h3>
+                <img src="https://img.r7.com/images/fotos-parecem-falsas-reais-11092018132807870?dimensions=771x420&no_crop=true" alt="imagem barco na montanha">
+            </header>
+            <p>
+                A diferença entre <a href="https://educador.brasilescola.uol.com.br/estrategias-ensino/como-produzir-imagens-reais-virtuais-sala-aula.htm" target="_blank"> imagens reais e virtuais</a> pode ser um pouco complexa e de difícil entendimento para alguns alunos. Por isso, esperamos que, com esse roteiro de aula, o professor consiga estudar com as suas turmas quais são as diferenças entre esses dois tipos de imagem, ajudando-os a compreender as suas propriedades de forma empírica.
+            </p>
+            <article>
+    </section>
+    <footer>
+        <ol><!--ol é uma lista com ordem e ul não importa a ordem-->
+            <li><!--li é a lista do ol ou il-->
+                <a href="https://outlook.live.com/mail/0/" target="_blank">email</a>
+            </li>
+            <li>
+                <a href="https://github.com/Dan9-9" target="_blank">github</a>
+            </li>
+        </ol>
+    </footer><!--rodape da pagina ou parte dela-->
+    <body>
+    
+</html>
+ 
